@@ -38,9 +38,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Enferno.Services.Contracts.Message, Version=1.0.0.0, Culture=neutral, PublicKeyToken=33afbde1e215b864, processorArchitecture=MSIL">
-      <HintPath>..\packages\Enferno.Services.Contracts.Message.1.0.0.6\lib\net45\Enferno.Services.Contracts.Message.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Enferno.Services.Contracts.Message, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Enferno.Services.Contracts.Message.1.1.0\lib\net45\Enferno.Services.Contracts.Message.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Runtime.Serialization" />
