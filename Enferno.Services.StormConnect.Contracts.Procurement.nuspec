@@ -4,19 +4,19 @@
 
   <metadata>
     <id>Enferno.Services.StormConnect.Contracts.Procurement</id>
-    <version>1.1.9</version>
+    <version>1.1.10</version>
     <title>Enferno.Services.StormConnect.Contracts.Procurement</title>
     <authors>Enferno AB</authors>
     <owners>Enferno AB</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Contracts for Procurement.</description>
     <releaseNotes>
-      Message contracts were updated.
+      Updated NuGet dependencies.
     </releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>Enferno Services StormConnect Contracts Procurement</tags>
     <dependencies>
-      <dependency id="Enferno.Services.Contracts.Message" version="1.0.0.6" />
+      <dependency id="Enferno.Services.Contracts.Message" version="1.1.1" />
     </dependencies>
   </metadata>
 
